@@ -2,3 +2,4 @@ node_modules/
 data/dashboard.html
 data/skill-data.json
 data/usage-log.jsonl
+.gstack/
