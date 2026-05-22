@@ -8,15 +8,8 @@ the right skill fast.
 
 ## Preview
 
-> Add screenshots after your next run:
-
-- `docs/screenshots/dashboard-overview.png` (grid view)
-- `docs/screenshots/dashboard-detail.png` (skill detail panel)
-
-```markdown
 ![Dashboard Overview](docs/screenshots/dashboard-overview.png)
 ![Skill Detail Panel](docs/screenshots/dashboard-detail.png)
-```
 
 ## Why skill-board
 

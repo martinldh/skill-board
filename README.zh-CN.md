@@ -6,15 +6,8 @@
 
 ## 预览
 
-> 下次运行后可补充截图：
-
-- `docs/screenshots/dashboard-overview.png`（卡片总览）
-- `docs/screenshots/dashboard-detail.png`（技能详情面板）
-
-```markdown
 ![仪表盘总览](docs/screenshots/dashboard-overview.png)
 ![技能详情面板](docs/screenshots/dashboard-detail.png)
-```
 
 ## 为什么需要 skill-board
 
